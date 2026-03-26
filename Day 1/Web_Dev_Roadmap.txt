@@ -1,0 +1,61 @@
+Date: 25 March 2026
+Topic: Web Development Roadmap Overview
+
+What I Learned:
+
+Web development is the process of building websites and web applications. It mainly has three parts:
+
+1. Front-end Development (Client Side):
+   This is what users see and interact with in the browser.
+
+* HTML: Used to create the structure of a webpage (like skeleton)
+* CSS: Used to design and style the webpage (colors, layout, fonts)
+* Frameworks: Bootstrap, Tailwind CSS (help to design faster)
+* JavaScript: Makes the website interactive and dynamic
+* JS Frameworks: React, Vue, Angular (used for advanced UI)
+* State Management: Redux, Vuex (manage data in large apps)
+
+2. Back-end Development (Server Side):
+   This part works behind the scenes and handles logic and data.
+
+* Node.js (Express.js)
+* Python (Django)
+* Java (Spring Boot)
+  These are used to build server-side applications.
+* REST API: Used for communication between frontend and backend
+* Authentication: Used for security (login, user verification)
+
+3. Database Management:
+   Used to store and manage data.
+
+* SQL (Relational): MySQL, PostgreSQL
+* NoSQL (Non-relational): MongoDB
+
+4. Version Control:
+   Used to manage code and track changes.
+
+* Git: Tracks code changes
+* GitHub / GitLab: Store code online and collaborate
+* Agile Methodologies: Scrum, Kanban (team workflow methods)
+
+5. Testing:
+   Used to check if the code works correctly.
+
+* Unit Testing: Jest, Mocha
+* Integration Testing: Selenium
+* End-to-End Testing: Playwright
+
+6. Other Technical Skills:
+
+* Mobile Development: React Native, Flutter
+* UI/UX Design: Figma, Adobe tools
+* Networking: LinkedIn and developer communities
+
+7. Soft Skills:
+
+* Communication (clear idea sharing)
+* Problem Solving (fixing issues logically)
+* Time Management (finishing tasks on time)
+
+Summary:
+Web development is a large field that includes frontend, backend, database, and tools. To become a good developer, I need to stay consistent, practice regularly, and keep learning continuously.
