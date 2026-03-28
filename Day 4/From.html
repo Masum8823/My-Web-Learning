@@ -13,44 +13,65 @@
             
             <div>
                 <label for="fullname">FullName: </label>
-                <input type="text" name="fullname" id="fullname">
+                    <input type="text" name="fullname" id="fullname" required>
             </div><br>
 
             <div>
                 <label for="email">Email: </label>
-                <input type="email" name="email" id="email"><br><br>
+                    <input type="email" name="email" id="email"><br><br>
             </div>
 
             <div>
                 <label for="password">Password: </label>
-                <input type="password" name="password" id="password"><br><br>
+                    <input type="password" name="password" id="password"><br><br>
             </div>
 
             <div>
                 <label for="dob"> Date of Birth: </label>
-                <input type="date" name="dob" id="dob"><br><br>
+                    <input type="date" name="dob" id="dob"><br><br>
             </div>
 
             <div>
                 <label for="photo"> Choose you Photo: </label>
-                <input type="file" name="photo" id="photo"><br><br>
+                    <input type="file" name="photo" id="photo"><br><br>
             </div>
 
             <div>
                 <label for="gender"> Gender: </label>
-                <input type="radio" name="gender" id="gender" value="Male"> Male
-                <input type="radio" name="gender" id="gender" value="female"> Female
-                <input type="radio" name="gender" id="gender" value="Others"> Others
+                    <input type="radio" name="gender" id="gender" value="Male"> Male
+                    <input type="radio" name="gender" id="gender" value="female"> Female
+                    <input type="radio" name="gender" id="gender" value="Others"> Others
             </div><br>
 
             <div>
                 <label for="religion"> Religion: </label>
-                <input type="checkbox" name="religion" id="religion" value="Muslim"> Islam
-                <input type="checkbox" name="religion" id="religion" value="Hindu"> Hindu
-                <input type="checkbox" name="religion" id="religion" value="Others"> Others
+                    <input type="checkbox" name="religion" id="religion" value="Muslim" > Islam
+                    <input type="checkbox" name="religion" id="religion" value="Hindu"> Hindu
+                    <input type="checkbox" name="religion" id="religion" value="Others"> Others
+            </div><br>
+
+            <div>
+                <label for="deparment">Select Department</label>
+                    <select name="deepartment" id="department">
+                        <option value="cse">CSE</option>
+                        <option value="eee">EEE</option>
+                        <option value="llb">LLB</option>
+                        <option value="law" selected>LAW</option>
+                    </select>
+            </div><br>
+
+            <div>
+                <label for="message">Feedback:</label><br>
+                <textarea name="message" id="message" cols="30" rows="20"></textarea>
             </div>
 
-            
+            <div>
+                <input type="submit" value="Register">
+                <input type="reset" value="Clear">
+            </div>
+
+
+            <!disabled,readonly>
             
     </form>
 
