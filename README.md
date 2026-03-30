@@ -57,16 +57,6 @@ I upload my progress regularly with practice files and structured learning.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masum8823&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masum8823&theme=radical" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 🔗 GitHub: https://github.com/Masum8823
@@ -77,9 +67,9 @@ I upload my progress regularly with practice files and structured learning.
 
 If you like this repository:
 
-⭐ Star the repo
-🍴 Fork it
-📢 Share it
+⭐ Star the repo <br>
+🍴 Fork it <br>
+📢 Share it 
 
 ---
 
