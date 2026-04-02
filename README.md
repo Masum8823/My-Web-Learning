@@ -24,7 +24,7 @@ I upload my progress regularly with practice files and structured learning.
 ## 📊 My Learning Consistency
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ```
 
 > 🟩 Active Learning Day
