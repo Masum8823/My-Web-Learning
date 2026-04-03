@@ -1,0 +1,10 @@
+.heading-style{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+} /* . indicates the starting of Class, and we can use it as much as we want inside any tag*/
+
+#para-style{
+    color: green;
+    font-size: 22px;
+} /* # indicates the starting of Class, and we can use it only one time inside any tag*/
