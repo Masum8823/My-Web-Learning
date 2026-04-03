@@ -1,0 +1,14 @@
+#section1{
+    background-color: black;
+}
+
+#section1 h1{
+    color: aqua;
+    font-size: 38px;
+    text-align: center;
+}
+
+#section1 p{
+    color: aliceblue;
+    font-size: 22px;
+}
