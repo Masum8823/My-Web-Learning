@@ -17,7 +17,7 @@
 🚀 This repository documents my **daily journey of learning Web Development**.
 I upload my progress regularly with practice files and structured learning.
 
-💡 Currently, I am focusing on **HTML** to build a strong foundation.
+💡 Currently, I am focusing on **HTML** and **CSS** to build a strong foundation.
 
 ---
 
@@ -36,14 +36,13 @@ I upload my progress regularly with practice files and structured learning.
 ## 🎯 Current Focus
 
 * ✅ HTML Basics
-* ✅ Forms & Input
-* ⏳ Semantic Tags
+* ✅ CSS Basics
 
 ---
 
 ## 🚀 Future Goals
 
-* 🔹 Learn CSS & Responsive Design
+* 🔹 Learn Responsive Design
 * 🔹 Master JavaScript
 * 🔹 Build Real Projects
 * 🔹 Become a Full Stack Developer
