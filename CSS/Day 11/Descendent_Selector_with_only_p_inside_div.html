@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descendant Selector with direct children only</title>
+    <style>
+        h1{
+            text-align: center;
+            color: aqua;
+            background-color: black;
+            font-size: 35px;
+        }
+
+        div > p{
+            color: brown;
+            font-size: 22px;
+        } /*Div er vitor er paragraph select hobe only, jegula kono section er baire thakbe.
+            Section er vitor er paragraph hole (div p) use korlei hobe.*/
+
+    </style>
+</head>
+<body>
+    <h1>Descendant Selector</h1>
+        <div>
+            <p>This is paragraph1.</p>
+            <p>This is paragraph2.</p>
+                <section>
+                    <p>This is paragraph3.</p>
+                </section>
+        </div>
+
+        <p>This is paragraph4.</p>
+    
+</body>
+</html>
